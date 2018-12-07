@@ -1,0 +1,82 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "eng": "How are you",
+            "han": "你好吗",
+            "pin": "Nǐ hǎo ma"
+        },
+        {
+            "id": 2,
+            "eng": "Hello?",
+            "han": "喂",
+            "pin": "Wèi"
+        },
+        {
+            "id": 3,
+            "eng": "Hi",
+            "han": "你好",
+            "pin": "Nǐhǎo"
+        },
+        {
+            "id": 4,
+            "eng": "See you later",
+            "han": "回头见",
+            "pin": "Húi Tóu Jiàn"
+        },
+        {
+            "id": 5,
+            "eng": "At",
+            "han": "在",
+            "pin": "zài"
+        },
+        {
+            "id": 6,
+            "eng": "Sorry",
+            "han": "對不起",
+            "pin": "Duì Bù Qǐ)"
+        },
+        {
+            "id": 7,
+            "eng": "Where is the toilet",
+            "han": "廁所在哪裡",
+            "pin": "Cèsuǒ Zài Nǎli"
+        },
+        {
+            "id": 8,
+            "eng": "Have",
+            "han": "有",
+            "pin": "yǒu"
+        },
+        {
+            "id": 9,
+            "eng": "I don't understand",
+            "han": "我不懂",
+            "pin": "Wǒ Bù Dǒng"
+        },
+        {
+            "id": 10,
+            "eng": "That's really funny",
+            "han": "好搞笑",
+            "pin": "Hǎo Gǎo Xiào"
+        },
+        {
+            "id": 11,
+            "eng": "To study/to learn",
+            "han": "学",
+            "pin": "xué"
+        },
+        {
+            "id": 12,
+            "eng": "I love you",
+            "han": "我愛你",
+            "pin": "Wǒ ài Nǐ"
+        },
+        {
+            "id": 13,
+            "eng": "Please speak more slowly",
+            "han": "麻煩你講慢一點",
+            "pin": "Máfan Nĭ Jiǎng Màn Yīdiǎn"
+        }
+    ]
+}
